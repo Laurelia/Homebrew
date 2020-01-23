@@ -1,0 +1,19 @@
+# Perception 
+___
+Perception measures your general awareness of your surroundings and the keenness of your Senses.
+
+### Perception Checks
+A Perception check can model any attempt to spot, hear, or otherwise detect the presence of something. 
+
+### Attack Rolls and Damage
+You add your Perception modifier to your Attack roll and your damage roll when attacking with a ranged weapon, such as a Longbow or Blowgun. You can also add your Perception modifier to your Attack roll and your damage roll when attacking with a melee weapon that has the Precise property, such as a Dagger or a Rapier.
+
+### Passive Perception.
+When a creature hides, there’s a chance you will notice it even if you aren’t searching. 
+To determine whether you notice such a creature, the GM compares the creatures Dexterity (Stealth) check with your Passive Perception score, which equals 10 + the creature’s Perception modifier, as well as any other bonuses or penalties. If the creature has advantage, add 5. For disadvantage, subtract 5.
+
+### Reflex Saving Throws
+Sometimes, you will have to make a reflex saving throw to avoid attacks, area of effect spells, and forced movement. Use the average of your Dexterity and Perception for your Reflex saving throw.
+
+### Wisdom (Perception Checks)
+Pre existing Wisdom (Perception) Checks are treated as Perception Checks. Any Race, Feat, or Item that gives a character proficiency in Wisdom (Perception) Checks will instead give proficiency in Perception Saving Throws. The Ranger and Rogue are Proficient in Perception
